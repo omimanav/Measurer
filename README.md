@@ -49,4 +49,4 @@ To publish it as a live link instead, turn on **GitHub Pages** for this repo (Se
 
 ## License
 
-No license has been set for this project yet — add one (MIT is a common choice for small tools like this) if you plan to share or accept contributions.
+GPLv3
